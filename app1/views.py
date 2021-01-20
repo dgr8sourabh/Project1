@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 
 def homepage(request):
-    return HttpResponse("<h1>Hi, django Framework is Easy to learn.</h1>")
+    return HttpResponse("<center><h1>Welcome to django Framework.</h1>")
