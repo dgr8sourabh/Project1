@@ -1,2 +1,2 @@
 # Project1
-Django learning project 1
+Django learning project 1 
